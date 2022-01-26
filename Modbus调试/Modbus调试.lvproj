@@ -13,7 +13,13 @@
 		<Item Name="Modbus调试" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="依赖关系" Type="Dependencies"/>
+		<Item Name="依赖关系" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
+				<Item Name="VISA Configure Serial Port (Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Instr).vi"/>
+				<Item Name="VISA Configure Serial Port (Serial Instr).vi" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port (Serial Instr).vi"/>
+			</Item>
+		</Item>
 		<Item Name="程序生成规范" Type="Build"/>
 	</Item>
 </Project>
