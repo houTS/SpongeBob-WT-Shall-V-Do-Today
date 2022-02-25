@@ -256,6 +256,24 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
 		</Item>
+		<Item Name="报文记录更新.vi" Type="VI" URL="../SubVI/整合功能/报文记录更新.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$W!!!!"1!Y1(!!(A!!)1Z.97FO5'&amp;H:3ZM&gt;GRJ9B".97FO5'&amp;H:3ZM&gt;G.M98.T!!R.97FO5'&amp;H:=LES/M!!""!-0````]'V^;X_\3O!!!?1%!!!P``````````!!%-M;D/R.$&amp;T[+]R]+]!!!%!!!!B!$Q!"1!!!!#!!-!!Q!$!!-!!Q!$!!-!!Q!$!!-!!Q!$!!-!!Q!$!!-!!Q!$!Q!"%!!!#A!!!AA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!%!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
+		<Item Name="寄存器值更新.vi" Type="VI" URL="../SubVI/整合功能/寄存器值更新.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$H!!!!"1!Y1(!!(A!!)1Z.97FO5'&amp;H:3ZM&gt;GRJ9B".97FO5'&amp;H:3ZM&gt;G.M98.T!!R.97FO5'&amp;H:=LES/M!!!N!"A!%SPX7N1!!&amp;%"!!!(`````!!%'4G6X6G&amp;M!!!%!!!!B!$Q!"1!!!!#!!-!!Q!$!!-!!Q!$!!-!!Q!$!!-!!Q!$!!-!!Q!$!!-!!Q!$!Q!"%!!!#A!!!AA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!%!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 		<Item Name="记录转表格.vi" Type="VI" URL="../SubVI/记录转表格.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;K!!!!$A!%!!!!$E!Q`````Q3RK-\%!!!/1$$`````"-$AM@!!!"*!-0````])T;D2NL89VL=!!""!-0````]'O;&lt;%X-,L!!!51$$`````#LT%N/&lt;'^\89VL=!!!Z!-0````]%SPW_X1!!%E!Q`````QAR.ML^PNX"PQ!!'E"1!!5!!Q!%!!5!"A!(#,,QN^&lt;+^.$5!!!/1$$`````",'YV[)!!"B!5!!%!!%!!A!)!!E)MP#XVL'IO/9!!"*!1!!"`````Q!+",T(QLQ!!":!1!!#``````````]!#13R\&lt;DR!!#%!0!!&amp;!!!!!!!#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Q!!!!!!!!#!!%1!!!!!!!!!!!!!AA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!"!!U!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
