@@ -44,7 +44,7 @@
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1074274816</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074536960</Property>
 		</Item>
 		<Item Name="服务端数据.vi" Type="VI" URL="../Data/服务端数据.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'F!!!!$1!11$$`````"UF1,6"P=H1!"!!!!!N!"A!%SPX7N1!!'%"!!!(`````!!)+P-3UZM&lt;XR+0%YA!!%%!B#L3OP^L6`&lt;/DI\]!!""!-0````]'V^;X_\3O!!!?1%!!!P``````````!!5-M;D/R.$&amp;T[+]R]+]!!!71&amp;!!!Q!$!!1!"AD+`&lt;\&gt;SO4)[Q!!%5!'!!KRK-\%V_[U]]'`!!"81"9!"Q.J&lt;GE)V0;]U\T(QLQ)NM()I&lt;T(QLQ-O0SYR,T%N/&lt;'^^;V$,D]O-3^U\`;V\4-L!SY`,D%M;D/R.$&amp;T[)-V0;]U\'ITM41R=_C!!4$NL\:!!!11#%+V&gt;+SO\7^P0SDPQ!!&amp;E"1!!-!!Q!%!!9)SPW_X&lt;PRS+%!!)1!]!!5!!!!!1!(!!%!!1!"!!%!!1!"!!%!!1!)!!E!!1!+!!%!#Q!"!!%!!1-!!2!!!!I!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!!!!!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!%!$!!!!!!</Property>
@@ -213,9 +213,9 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
 			<Item Name="Answer.vi" Type="VI" URL="../SubVI/Answer.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&gt;!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!B$EVB;7Z197&gt;F,GRW&lt;'FC%%VB;7Z197&gt;F,GRW9WRB=X-!$5VB;7Z197&gt;F)-LEM`9!$E"Q!!5'Q;S^UUF%!!!?!$@`````!!1:!)!!!!!!!1!%!!!!!1!!!!!!!!!S1(!!$A6*&lt;H.U=A!"!!=:!)!!!!!!!1!%!!!!!1!!!!!!!!R736."N+[`WM0\M]9!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!Q`````QC^U]L6M;D/R!!!/%"Q!"Y!!#%/47&amp;J&lt;F"B:W5O&lt;(:M;7)147&amp;J&lt;F"B:W5O&lt;(:D&lt;'&amp;T=Q!.47&amp;J&lt;F"B:W5ASO4)[Q"5!0!!$!!$!!1!"!!&amp;!!9!"!!)!!1!#1!%!!I!#Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!+!!!!!!!!!!A!!!!!!!!!#!!!!!!!!!))!!!!EA!!!!!"!!Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'N!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!B$EVB;7Z197&gt;F,GRW&lt;'FC%%VB;7Z197&gt;F,GRW9WRB=X-!$5VB;7Z197&gt;F)-LEM`9!$E"Q!!5'Q;S^UUF%!!!?!$@`````!!1:!)!!!!!!!1!%!!!!!1!!!!!!!!!S1(!!$A6*&lt;H.U=A!"!!=:!)!!!!!!!1!%!!!!!1!!!!!!!!R736."N+[`WM0\M]9!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%!Q`````Q&lt;+NL(QP0Q!!"*!-0````])P&gt;0+V&lt;'ITM1!!$B!=!!?!!!B$EVB;7Z197&gt;F,GRW&lt;'FC%%VB;7Z197&gt;F,GRW9WRB=X-!$5VB;7Z197&gt;F)-LES/M!6!$Q!!Q!!Q!%!!1!"1!'!!1!#!!%!!E!#A!,!!Q$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!#A!!!!!!!!!+!!!!!!!!!!A!!!%+!!!##!!!!*)!!!!!!1!.!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">1090519168</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
@@ -259,15 +259,6 @@
 			</Item>
 		</Item>
 		<Item Name="MBRTU" Type="Folder">
-			<Item Name="03询问拆分.vi" Type="VI" URL="../SubVI/MBRTU/03询问拆分.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;W!!!!$Q!/1$$`````",'ITM1!!!1!!!!,1!5!"-L^VL5!!"R!1!!"`````Q!#$M\?N`O[R&gt;@7P&gt;L+`&gt;@J!!!.1!5!"LGGR.T#[Q!!$E!Q`````Q4!Y,(Q!!!31$$`````#-WIU&lt;;VW.;X!!!11$$`````"LGGR.T#[Q!!&amp;%!Q`````QK]R,4GRP?VW.;X!!!/1$$`````"-L^PNU!!"*!-0````])-4&lt;+`&lt;\&gt;Q&lt;]!!"J!5!!&amp;!!9!"Q!)!!E!#ACS],@7SP41V!!!$E!Q`````Q3RO.?C!!!91&amp;!!"!!!!!5!#Q!-#,,QN^;RK,DG!!#%!0!!&amp;!!!!!%!!1!"!!-!!1!"!!%!!1!"!!1!!1!"!!%!!1!"!!U!!1!&amp;!!%#!!%1!!))!!!!!!!!!!!!!!!!!!!"#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!*!!!!!!!!!!!"!!Y!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1342710274</Property>
-			</Item>
 			<Item Name="CRC计算.vi" Type="VI" URL="../SubVI/MBRTU/CRC计算.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$9!!!!"A!%!!!!$5!&amp;!!;ZJM4=QOM!!"J!1!!"`````Q!"$-\?U+02[65YSPX8[1!!&amp;E!Q`````QS]RMPDOP08VL@\N+Y!!!N!"A!&amp;1V*$VL5!B!$Q!"1!!!!!!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-!!!!!!!!!"!!!!A!"%!!!!!!!!!!!!!%+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.!A!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!1!&amp;!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -285,6 +276,24 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+			</Item>
+			<Item Name="模拟反馈.vi" Type="VI" URL="../SubVI/MBRTU/模拟反馈.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(B!!!!%A!/1$$`````"-$AM@!!!"&amp;!"1!,T;D2NL89VL=A64A!$U!&amp;!!GZJM4=QOMA64A!&amp;5!'!![]R,4GRP?VW.;X)&amp;5R.A!!%5!'!!P+`&lt;\&gt;,^;V)&amp;5R.A!21!9!#D%WSPW_X3"6-49!!"B!1!!"`````Q!&amp;#D%WSPW_X3"6-49!!#"!5!!'!!!!!1!#!!-!"!!'$&lt;,QN^&lt;1R=_C,=L^PNU!"!!!!"B!1!!"`````Q!&amp;#LT%N/&lt;'^]LES/M!!"&amp;!"1!,-$08VLX;SPUA64A!%5!&amp;!!IR.ML^PNUA64%W!!!71%!!!@````]!#QEQ-]L^PNUA64A!'5!'!")W,T%WP-3UZM&lt;XN&gt;D7NS"6-49!!"6!"A!0.C]R.ML^Q&lt;]PVL5A64%W!"Z!5!!(!!!!!1!#!!I!$!!.!!Y)N\4!I&lt;,/SPU!!"B!1!!"`````Q!&amp;#LT%N/&lt;'^]LEM`9!!)1!]!!5!!=!#!!)!!A!#!!*!!A!#!!)!!A!#!!)!!A!#!!0!!A!#!!)!!A!%!)!!2!!!!A!!!!!!!!!!!!!!!!!!!!!!!!##A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!."1!!!!%!%1!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1346380288</Property>
+			</Item>
+			<Item Name="询问命令拆分.vi" Type="VI" URL="../SubVI/MBRTU/询问命令拆分.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(C!!!!&amp;!!/1$$`````",'ITM1!!!1!!!!.1!5!"LGGR.T#[Q!!$E!Q`````Q4!Y,(Q!!!31$$`````#-WIU&lt;;VW.;X!!!11$$`````"LGGR.T#[Q!!&amp;%!Q`````QK]R,4GRP?VW.;X!!!/1$$`````"-L^PNU!!"*!-0````])-4&lt;+`&lt;\&gt;Q&lt;]!!"J!5!!&amp;!!1!"1!'!!=!#!CS],@7SP41V!!!$E!Q`````Q3RO.?C!!!=1&amp;!!"!!!!!-!#1!+$,,QN^;RK,DGTM3RPA!!%5!&amp;!!P.K.'WN&gt;D7NS"6/!!01!5!#&lt;GGR.T#[S"6/!!61!9!$LT%N/&lt;'^\89VL=A64%W!!!21!9!#]L^PNUPVL5A64%W!"&amp;!"A!+-4&lt;+`&lt;\&gt;)&amp;5R.A!!'%"!!!(`````!"!+-4&lt;+`&lt;\&gt;)&amp;5R.A!!)%"1!!9!!Q!-!!U!$A!0!"%.MP#XVN$&amp;T[)NSPW_X1#%!0!!&amp;!!!!!%!!1!"!!%!!1!"!!%!!1!"!!)!!1!"!!%!!1!"!!M!!1!$!")#!!%1!!))!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!*!!!!#1!!!!!"!"-!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342714368</Property>
 			</Item>
 		</Item>
 		<Item Name="端口设置" Type="Folder">
@@ -354,13 +363,13 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 			</Item>
 			<Item Name="报文拆分.vi" Type="VI" URL="../SubVI/报文拆分.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;#!!!!$!!/1$$`````",'ITM1!!!1!!!!/1$$`````"-$AM@!!!"*!-0````])T;D2NL89VL=!!""!-0````]'O;&lt;%X-,L!!!51$$`````#LT%N/&lt;'^\89VL=!!!Z!-0````]%SPW_X1!!%E!Q`````QAR.ML^PNX"PQ!!'E"1!!5!!Q!%!!5!"A!(#,,QN^&lt;+^.$5!!!/1$$`````",'YV[)!!"B!5!!%!!!!!A!)!!E)MP#XVL'IO/9!!)1!]!!5!!!!!1!"!!%!!1!"!!%!!1!"!!%!!1!"!!%!!1!#!!%!#A!"!!%!!1)!!2!!!AA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!%!#Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(2!!!!%Q!/1$$`````",'ITM1!!!1!!!!/1$$`````"-$AM@!!!"*!-0````])T;D2NL89VL=!!""!-0````]'O;&lt;%X-,L!!!51$$`````#LT%N/&lt;'^\89VL=!!!Z!-0````]%SPW_X1!!%E!Q`````QAR.ML^PNX"PQ!!'E"1!!5!!Q!%!!5!"A!(#,,QN^&lt;+^.$5!!!/1$$`````",'YV[)!!"B!5!!%!!!!!A!)!!E)MP#XVL'IO/9!!"&amp;!"1!,T;D2NL89VL=A64A!$U!&amp;!!GZJM4=QOMA64A!&amp;5!'!![]R,4GRP?VW.;X)&amp;5R.A!!%5!'!!P+`&lt;\&gt;,^;V)&amp;5R.A!21!9!#D%WSPW_X3"6-49!!"B!1!!"`````Q!0#D%WSPW_X3"6-49!!#"!5!!'!!)!#Q!-!!U!$A!1$&lt;,QN^&lt;1R=_C,=L^PNU!B!$Q!"1!!!!"!!%!!1!"!!%!!1!"!!%!!1!"!!%!!1!"!!)!!1!+!!%!!1!2!A!"%!!##!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!E!!!!!!!!!!!!!!!E!!!!!!1!3!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1342710274</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
 			<Item Name="报文获取.vi" Type="VI" URL="../SubVI/报文获取.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+P!!!!(1!U1(!!(A!!)1Z.97FO5'&amp;H:3ZM&gt;GRJ9B".97FO5'&amp;H:3ZM&gt;G.M98.T!!B.97FO5'&amp;H:1!!"!!!!""!-0````](36!N5'^S&gt;!!;1%!!!@````]!!ASX`M\RV?T-`=HIM&lt;A!!!N!"A!%SPX7N1!!'%"!!!(`````!!1+P-3UZM&lt;XR+0%YA!!$E!Q`````Q4%I]K^!!!31$$`````#,'_O`L1R=_C!!!31$$`````#-3`M?L1R=_C!!!11#%+N+[`WN8^M[/DPQ!!'%"1!!1!"A!(!!A!#1D8N-SMU-80IA!!&amp;E!Q`````QW`T6!NVP&gt;*5#V1&lt;X*U!"B!1!!"`````Q!,#\`.N`[WSSX*[,'Y!"*!-0````])Q@@,LM`5SLY!!!Z!-0````]%M;D/R!!!$E!Q`````Q4!Y,(Q!!!31$$`````#-WIU&lt;;VW.;X!!!11$$`````"LGGR.T#[Q!!&amp;%!Q`````QK]R,4GRP?VW.;X!!!/1$$`````"-L^PNU!!"*!-0````])-4&lt;+`&lt;\&gt;Q&lt;]!!"J!5!!&amp;!"!!%1!3!"-!&amp;!CS],@7SP41V!!!$E!Q`````Q3RO.?C!!!91&amp;!!"!!/!!]!&amp;1!7#,,QN^;RK,DG!!!71%!!!@````]!&amp;QD/N.;KP-@#P!!!&amp;%"!!!(`````!"='-$/]R]+]!!!51%!!!@````]!&amp;Q9Q.LT(QLQ!!"2!1!!"`````Q!8"D%WP-@#P!!!B!$Q!"1!!!!"!!%!!1!"!!%!!1!$!!%!"1!"!!I!!1!-!!U!!1!9!"E!'A!&lt;!Q!"%!!!#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!E!!!!!!!!!#1!!!!!!!!!*!!!!!!!!!!E!!!!*!!!!!!!!!!E!!!!*!!!!#1!!!!E!!!!!!1!=!!!!!!</Property>
@@ -419,5 +428,14 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">277618704</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+	</Item>
+	<Item Name="反馈拼接.vi" Type="VI" URL="../SubVI/MBRTU/反馈拼接.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;9!!!!$!!/1$$`````"-$AM@!!!"&amp;!"1!,T;D2NL89VL=A64A!$U!&amp;!!GZJM4=QOMA64A!%5!&amp;!!MQ-^@7P&gt;L+`3"6/!!21!5!#D%WSPW_X3"6-49!!":!1!!"`````Q!%#4!TSPW_X3"6/!!:1!9!%D9P-4;]R,4GRP?VW.;X)&amp;5R.A!!&amp;5!'!!]W,T%WSPX"PS`7N3"6-49!(E"1!!=!!!!"!!)!!Q!&amp;!!9!"QCXN-#BMM\+`1!!"!!!!":!-0````]-P-&lt;,Y\LTV^;X_\3O!!#%!0!!&amp;!!)!!E!#1!*!!E!#1!*!!E!#1!*!!E!#1!*!!E!#A!*!!E!#1!*!!E#!!%1!!!)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342714368</Property>
 	</Item>
 </LVClass>
